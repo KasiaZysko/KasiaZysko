@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  I'm Kasia and I'm BI Developer<br>🐍I'm  currently learning Python <br>📨 You can reach me on Linkedin(https://linkedin.com/in/https://www.linkedin.com/in/katarzyna-zysko-074538b3/) 
+Hi  I'm Kasia and I'm BI Developer<br>🐍I'm  currently learning Python <br>📨 You can reach me on [![Linkedin]](https://linkedin.com/in/https://www.linkedin.com/in/katarzyna-zysko-074538b3/) 
 
 
 ## 🌐 Socials:
